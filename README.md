@@ -4,7 +4,7 @@ Ce dépôt regroupe **4 exercices** destinés à se familiariser avec la program
 
 ## Structure du Projet
 
-- **exercice1-3/**  
+- **exercice1-4/**  
   - `script.js` : Contient les exercices suivants :  
     - Exercice 1 : Création d'objets voiture avec héritage (Hyundai et Ford) et tri par année.  
     - Exercice 2 : Création d'objets `Etudiant` et `Professeur` avec méthodes et tri des étudiants par nom/prénom.  
