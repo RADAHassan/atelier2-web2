@@ -15,4 +15,4 @@ Ce dépôt regroupe **4 exercices** destinés à se familiariser avec la program
 
 ## Instructions d'Utilisation
 
-   git clone https://github.com/votre-compte/ProjetPOO_JS.git
+   git clone https://github.com/RADAHassan/atelier2-web2
